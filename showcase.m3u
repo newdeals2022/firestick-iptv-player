@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="live1" tvg-name="Skyline News HD" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Skyline News HD
-http://192.168.1.X:8000/news.mp4
+http://192.168.11.101:8000/news.mp4
 #EXTINF:-1 tvg-id="live2" tvg-name="Action Max" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Action Max
-http://192.168.1.X:8000/sports.mp4
+http://192.168.11.101:8000/sports.mp4
 #EXTINF:-1 tvg-id="live3" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Earth Nature Cam
-http://192.168.1.X:8000/nature.mp4
+http://192.168.11.101:8000/nature.mp4
