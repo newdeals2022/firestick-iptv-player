@@ -1,21 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="live1" tvg-name="Global News Network 24/7" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Global News Network 24/7
-https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
 #EXTINF:-1 tvg-id="live2" tvg-name="Metro Headlines HD" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Metro Headlines HD
-https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
 #EXTINF:-1 tvg-id="live3" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Nature",Earth Nature Cam
-https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
-#EXTINF:-1 tvg-id="vod1" tvg-name="Cybernetic Horizon" tvg-logo="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Cybernetic Horizon
-https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
-#EXTINF:-1 tvg-id="vod2" tvg-name="Echoes of the Machine" tvg-logo="https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Echoes of the Machine
-https://archive.org/download/ElephantsDream/ed_hd.mp4
-#EXTINF:-1 tvg-id="vod3" tvg-name="The Last Frontier" tvg-logo="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",The Last Frontier
-https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
-#EXTINF:-1 tvg-id="vod4" tvg-name="Nebula Rising" tvg-logo="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Nebula Rising
-https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
-#EXTINF:-1 tvg-id="ser1" tvg-name="Neon Detective S01 E01" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01 E01
-https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
-#EXTINF:-1 tvg-id="ser2" tvg-name="Neon Detective S01 E02" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01 E02
-https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
-#EXTINF:-1 tvg-id="ser3" tvg-name="Neon Detective S01 E03" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01 E03
-https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
