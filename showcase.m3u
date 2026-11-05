@@ -1,7 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="live1" tvg-name="Global News Network 24/7" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Global News Network 24/7
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
-#EXTINF:-1 tvg-id="live2" tvg-name="Metro Headlines HD" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Metro Headlines HD
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-#EXTINF:-1 tvg-id="live3" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Nature",Earth Nature Cam
-https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1 tvg-id="live1" tvg-name="Skyline News HD" tvg-logo="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Skyline News HD
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="live2" tvg-name="Global News Network 24/7" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Global News Network 24/7
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="live3" tvg-name="Metro Headlines" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - News",Metro Headlines
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="live4" tvg-name="Action Max" tvg-logo="https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Entertainment",Action Max
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="live5" tvg-name="Cinema One HD" tvg-logo="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Entertainment",Cinema One HD
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="live6" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Nature",Earth Nature Cam
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="live7" tvg-name="Wild Planet" tvg-logo="https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Nature",Wild Planet
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1 tvg-id="live8" tvg-name="Sports Arena HD" tvg-logo="https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Sports",Sports Arena HD
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:-1 tvg-id="live9" tvg-name="Velocity Sports" tvg-logo="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Sports",Velocity Sports
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="live10" tvg-name="Pulse Music TV" tvg-logo="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV - Music",Pulse Music TV
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:7080 tvg-id="vod1" tvg-name="Cybernetic Horizon" tvg-logo="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Cybernetic Horizon
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:6240 tvg-id="vod2" tvg-name="Echoes of the Machine" tvg-logo="https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Echoes of the Machine
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:7620 tvg-id="vod3" tvg-name="Nebula Rising" tvg-logo="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Nebula Rising
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:5760 tvg-id="vod4" tvg-name="Code Zero" tvg-logo="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Code Zero
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:6720 tvg-id="vod5" tvg-name="Starfall" tvg-logo="https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Starfall
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:6540 tvg-id="vod6" tvg-name="The Last Chase" tvg-logo="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",The Last Chase
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:6060 tvg-id="vod7" tvg-name="Iron Velocity" tvg-logo="https://images.unsplash.com/photo-1532767153582-b1a0e5145009?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Iron Velocity
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:6900 tvg-id="vod8" tvg-name="Blackout Protocol" tvg-logo="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Blackout Protocol
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:5880 tvg-id="vod9" tvg-name="Zero Hour" tvg-logo="https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Zero Hour
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:8040 tvg-id="vod10" tvg-name="The Last Frontier" tvg-logo="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Adventure",The Last Frontier
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:6360 tvg-id="vod11" tvg-name="Summit" tvg-logo="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Adventure",Summit
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:5940 tvg-id="vod12" tvg-name="Wild Horizons" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Adventure",Wild Horizons
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:7260 tvg-id="vod13" tvg-name="Midnight in Manhattan" tvg-logo="https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Midnight in Manhattan
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:6180 tvg-id="vod14" tvg-name="The Quiet Forest" tvg-logo="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",The Quiet Forest
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:7020 tvg-id="vod15" tvg-name="Silver Coast" tvg-logo="https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Silver Coast
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:2700 tvg-id="ser1" tvg-name="Neon Detective S01E01 - Pilot" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E01 - Pilot
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:2700 tvg-id="ser2" tvg-name="Neon Detective S01E02 - Blue Hour" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E02 - Blue Hour
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:2700 tvg-id="ser3" tvg-name="Neon Detective S01E03 - The Informant" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E03 - The Informant
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:2700 tvg-id="ser4" tvg-name="Neon Detective S01E04 - Static" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E04 - Static
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:2700 tvg-id="ser5" tvg-name="Neon Detective S01E05 - Last Light" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E05 - Last Light
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:2700 tvg-id="ser6" tvg-name="The Silent Mask S01E01 - The Arrival" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E01 - The Arrival
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:2700 tvg-id="ser7" tvg-name="The Silent Mask S01E02 - Masquerade" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E02 - Masquerade
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:2700 tvg-id="ser8" tvg-name="The Silent Mask S01E03 - Smoke and Mirrors" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E03 - Smoke and Mirrors
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:2700 tvg-id="ser9" tvg-name="The Silent Mask S01E04 - The Ledger" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E04 - The Ledger
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
+#EXTINF:2700 tvg-id="ser10" tvg-name="The Silent Mask S01E05 - Unmasked" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E05 - Unmasked
+https://cph-p2p-msl.akamaized.net/hls/live/2000341/test/master.m3u8
