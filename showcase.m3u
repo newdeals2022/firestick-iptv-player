@@ -1,7 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="live1" tvg-name="Skyline News HD" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Skyline News HD
-http://192.168.11.101:8000/news.mp4
-#EXTINF:-1 tvg-id="live2" tvg-name="Action Max" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Action Max
-http://192.168.11.101:8000/sports.mp4
-#EXTINF:-1 tvg-id="live3" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=400&h=400&q=80" group-title="Live TV",Earth Nature Cam
-http://192.168.11.101:8000/nature.mp4
+#EXTINF:-1 tvg-id="live1" tvg-name="Skyline News HD" tvg-logo="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Skyline News HD
+http://192.168.1.X:8000/news.mp4
+#EXTINF:-1 tvg-id="live2" tvg-name="Global News Network 24/7" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Global News Network 24/7
+http://192.168.1.X:8000/news.mp4
+#EXTINF:-1 tvg-id="live3" tvg-name="Metro Headlines" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Metro Headlines
+http://192.168.1.X:8000/news.mp4
+#EXTINF:-1 tvg-id="live4" tvg-name="Action Max" tvg-logo="https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Action Max
+http://192.168.1.X:8000/sports.mp4
+#EXTINF:-1 tvg-id="live5" tvg-name="Cinema One HD" tvg-logo="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Cinema One HD
+http://192.168.1.X:8000/nature.mp4
+#EXTINF:-1 tvg-id="live6" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Earth Nature Cam
+http://192.168.1.X:8000/nature.mp4
+#EXTINF:-1 tvg-id="live7" tvg-name="Wild Planet" tvg-logo="https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Wild Planet
+http://192.168.1.X:8000/nature.mp4
+#EXTINF:-1 tvg-id="live8" tvg-name="Sports Arena HD" tvg-logo="https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Sports Arena HD
+http://192.168.1.X:8000/sports.mp4
+#EXTINF:-1 tvg-id="live9" tvg-name="Velocity Sports" tvg-logo="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Velocity Sports
+http://192.168.1.X:8000/sports.mp4
+#EXTINF:-1 tvg-id="live10" tvg-name="Pulse Music TV" tvg-logo="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Pulse Music TV
+http://192.168.1.X:8000/news.mp4
+#EXTINF:6540 tvg-id="vod1" tvg-name="The Last Chase" tvg-logo="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",The Last Chase
+https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:6060 tvg-id="vod2" tvg-name="Iron Velocity" tvg-logo="https://images.unsplash.com/photo-1532767153582-b1a0e5145009?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Iron Velocity
+https://archive.org/download/hero_20260106/hero.mp4
+#EXTINF:6900 tvg-id="vod3" tvg-name="Blackout Protocol" tvg-logo="https://images.unsplash.com/photo-1544197150-b99a580bb7a8?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Blackout Protocol
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:5880 tvg-id="vod4" tvg-name="Zero Hour" tvg-logo="https://images.unsplash.com/photo-1535016120720-40c646be5580?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Zero Hour
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:6360 tvg-id="vod5" tvg-name="Summit" tvg-logo="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Summit
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:7080 tvg-id="vod6" tvg-name="Cybernetic Horizon" tvg-logo="https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Cybernetic Horizon
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:6240 tvg-id="vod7" tvg-name="Echoes of the Machine" tvg-logo="https://images.unsplash.com/photo-1555680202-c86f0e12f086?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Echoes of the Machine
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:7620 tvg-id="vod8" tvg-name="Nebula Rising" tvg-logo="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Nebula Rising
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:5760 tvg-id="vod9" tvg-name="Code Zero" tvg-logo="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Code Zero
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:6720 tvg-id="vod10" tvg-name="Starfall" tvg-logo="https://images.unsplash.com/photo-1484950763426-56b5bf172dbb?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Sci-Fi",Starfall
+https://archive.org/download/hero_20260106/hero.mp4
+#EXTINF:8040 tvg-id="vod11" tvg-name="The Last Frontier" tvg-logo="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",The Last Frontier
+https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:7260 tvg-id="vod12" tvg-name="Midnight in Manhattan" tvg-logo="https://images.unsplash.com/photo-1514565131-fce0801e5785?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Midnight in Manhattan
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:6180 tvg-id="vod13" tvg-name="The Quiet Forest" tvg-logo="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",The Quiet Forest
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
+#EXTINF:7020 tvg-id="vod14" tvg-name="Silver Coast" tvg-logo="https://images.unsplash.com/photo-1534447677768-be436bb09401?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Silver Coast
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:5940 tvg-id="vod15" tvg-name="Mirror Lake" tvg-logo="https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Drama",Mirror Lake
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:2917 tvg-id="ser1" tvg-name="Neon Detective S01E01 - Pilot" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E01 - Pilot
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:2954 tvg-id="ser2" tvg-name="Neon Detective S01E02 - Blue Hour" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E02 - Blue Hour
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:2991 tvg-id="ser3" tvg-name="Neon Detective S01E03 - The Informant" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E03 - The Informant
+https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:3028 tvg-id="ser4" tvg-name="Neon Detective S01E04 - Static" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E04 - Static
+https://archive.org/download/hero_20260106/hero.mp4
+#EXTINF:3065 tvg-id="ser5" tvg-name="Neon Detective S01E05 - Last Light" tvg-logo="https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Thriller",Neon Detective S01E05 - Last Light
+https://archive.org/download/CosmosLaundromatFirstCycle/Cosmos%20Laundromat%20-%20First%20Cycle%20(1080p).mp4
+#EXTINF:2677 tvg-id="ser6" tvg-name="The Silent Mask S01E01 - The Arrival" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E01 - The Arrival
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:2714 tvg-id="ser7" tvg-name="The Silent Mask S01E02 - Masquerade" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E02 - Masquerade
+https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
+#EXTINF:2751 tvg-id="ser8" tvg-name="The Silent Mask S01E03 - Smoke and Mirrors" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E03 - Smoke and Mirrors
+https://archive.org/download/ElephantsDream/ed_hd.mp4
+#EXTINF:2788 tvg-id="ser9" tvg-name="The Silent Mask S01E04 - The Ledger" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E04 - The Ledger
+https://archive.org/download/Tears-of-Steel/tears_of_steel_720p.mp4
+#EXTINF:2825 tvg-id="ser10" tvg-name="The Silent Mask S01E05 - Unmasked" tvg-logo="https://images.unsplash.com/photo-1509248961158-e54f6934749c?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Mystery",The Silent Mask S01E05 - Unmasked
+https://archive.org/download/hero_20260106/hero.mp4
+#EXTINF:2557 tvg-id="ser11" tvg-name="Wild Horizons S01E01 - The Andes" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Adventure",Wild Horizons S01E01 - The Andes
+https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4
+#EXTINF:2594 tvg-id="ser12" tvg-name="Wild Horizons S01E02 - High Plains" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Adventure",Wild Horizons S01E02 - High Plains
+https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4
+#EXTINF:2631 tvg-id="ser13" tvg-name="Wild Horizons S01E03 - Old Friends" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Adventure",Wild Horizons S01E03 - Old Friends
+https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4
+#EXTINF:2668 tvg-id="ser14" tvg-name="Wild Horizons S01E04 - Spring Thaw" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Adventure",Wild Horizons S01E04 - Spring Thaw
+https://archive.org/download/spring_blenderopenmovie/Spring%20-%20Blender%20Open%20Movie%20-%20YouTube.mp4
+#EXTINF:2705 tvg-id="ser15" tvg-name="Wild Horizons S01E05 - The Long Way Home" tvg-logo="https://images.unsplash.com/photo-1501854140801-50d01698950b?auto=format&fit=crop&w=400&h=600&q=80" group-title="Series - Adventure",Wild Horizons S01E05 - The Long Way Home
+https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4
