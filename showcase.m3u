@@ -1,24 +1,24 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="live1" tvg-name="Skyline News HD" tvg-logo="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Skyline News HD
-http://192.168.1.X:8000/news.mp4
+http://192.168.11.101:8000/news.mp4
 #EXTINF:-1 tvg-id="live2" tvg-name="Global News Network 24/7" tvg-logo="https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Global News Network 24/7
-http://192.168.1.X:8000/news.mp4
+http://192.168.11.101:8000/news.mp4
 #EXTINF:-1 tvg-id="live3" tvg-name="Metro Headlines" tvg-logo="https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Metro Headlines
-http://192.168.1.X:8000/news.mp4
+http://192.168.11.101:8000/news.mp4
 #EXTINF:-1 tvg-id="live4" tvg-name="Action Max" tvg-logo="https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Action Max
-http://192.168.1.X:8000/sports.mp4
+http://192.168.11.101:8000/sports.mp4
 #EXTINF:-1 tvg-id="live5" tvg-name="Cinema One HD" tvg-logo="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Cinema One HD
-http://192.168.1.X:8000/nature.mp4
+http://192.168.11.101:8000/nature.mp4
 #EXTINF:-1 tvg-id="live6" tvg-name="Earth Nature Cam" tvg-logo="https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Earth Nature Cam
-http://192.168.1.X:8000/nature.mp4
+http://192.168.11.101:8000/nature.mp4
 #EXTINF:-1 tvg-id="live7" tvg-name="Wild Planet" tvg-logo="https://images.unsplash.com/photo-1523805009345-7448845a9e53?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Wild Planet
-http://192.168.1.X:8000/nature.mp4
+http://192.168.11.101:8000/nature.mp4
 #EXTINF:-1 tvg-id="live8" tvg-name="Sports Arena HD" tvg-logo="https://images.unsplash.com/photo-1574629810360-7efbbe195018?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Sports Arena HD
-http://192.168.1.X:8000/sports.mp4
+http://192.168.11.101:8000/sports.mp4
 #EXTINF:-1 tvg-id="live9" tvg-name="Velocity Sports" tvg-logo="https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Velocity Sports
-http://192.168.1.X:8000/sports.mp4
+http://192.168.11.101:8000/sports.mp4
 #EXTINF:-1 tvg-id="live10" tvg-name="Pulse Music TV" tvg-logo="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=640&h=360&q=80" group-title="Live TV",Pulse Music TV
-http://192.168.1.X:8000/news.mp4
+http://192.168.11.101:8000/news.mp4
 #EXTINF:6540 tvg-id="vod1" tvg-name="The Last Chase" tvg-logo="https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",The Last Chase
 https://archive.org/download/Sintel/sintel-2048-stereo_512kb.mp4
 #EXTINF:6060 tvg-id="vod2" tvg-name="Iron Velocity" tvg-logo="https://images.unsplash.com/photo-1532767153582-b1a0e5145009?auto=format&fit=crop&w=400&h=600&q=80" group-title="Movies - Action",Iron Velocity
